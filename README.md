@@ -1,6 +1,6 @@
 # Database Management System
 
-    A Java-based system implemented during my second year as a project with my classmate, where the idea was to create a system that implemented concepts learnt in OOP, which is data management. The system is implemented using Java RMI and simulates a system that focuses on server-client interaction, interface, and database management and manages an inventory of items, where the key functionality of this system includes: 
+A Java-based system implemented during my second year as a project with my classmate, where the idea was to create a system that implemented concepts learnt in OOP, which is data management. The system is implemented using Java RMI and simulates a system that focuses on server-client interaction, interface, and database management and manages an inventory of items, where the key functionality of this system includes: 
 Adding products to the inventory.
 Listing all the products.
 Modifying product quantities (add or remove)
